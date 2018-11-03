@@ -1,13 +1,13 @@
 {
-  "name": "NettyFinder",
-  "short_name": "NettyFinder",
+  "name": "Date of Birth Finder",
+  "short_name": "DOB Finder",
   "theme_color": "#2dce89",
   "background_color": "#ffffff",
   "display": "standalone",
   "orientation": "portrait",
   "Scope": "/",
   "start_url": "/index.html?launcher=true",
-  "description": "This script checks a Nigerian Telephone number and detects which network it belongs to",
+  "description": "This script checks your Date of Birth and detects the Day of the Week you were born.",
   "lang": "en-US",
   "icons": [
     {
